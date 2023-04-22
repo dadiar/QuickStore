@@ -1,0 +1,48 @@
+
+#wrap_page{
+
+}
+
+#header{  
+
+}
+#logo{
+	padding-bottom: 1%;
+	
+}
+
+.nav-iteam{
+	padding: 0.1rem;
+	background-color: rgb(255, 255, 255);
+}
+body, html{
+	margin:0px;
+	
+	
+}
+
+
+.title{
+	width:90%;
+	background-color:#000;
+	padding:10px;
+	border-radius:5px;
+	height:60px;
+}
+
+.title img{
+	width:60px;
+	border-radius:30%;
+	float:left;
+}
+
+
+
+
+
+.desc p{
+	text-align:justify;
+	color:#fff;
+}
+
+
